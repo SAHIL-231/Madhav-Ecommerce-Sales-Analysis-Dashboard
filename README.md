@@ -44,6 +44,7 @@ The objective of this project is to demonstrate practical skills in:
 * Extracting actionable insights from sales data
 ## 👨‍💻 Author
 **Sahil Rawat**
+
 BCA Graduate | Aspiring Data Analyst
 
 Skills: Python | SQL | Power BI | Excel | Data Analysis
