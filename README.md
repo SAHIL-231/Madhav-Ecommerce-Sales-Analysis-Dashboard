@@ -43,8 +43,10 @@ The objective of this project is to demonstrate practical skills in:
 * Interactive dashboard development
 * Extracting actionable insights from sales data
 ## 👨‍💻 Author
-**Sahil Rawat**
+Sahil Rawat
+
 BCA Graduate | Aspiring Data Analyst
+
 Skills: Python | SQL | Power BI | Excel | Data Analysis
 ---
 ⭐ If you find this project useful, feel free to star the repository.
